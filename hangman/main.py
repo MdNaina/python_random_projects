@@ -1,6 +1,6 @@
 from random import *
 import new.hangman.grapics as gp
-import my_module
+import extra_module as my_module
 
 
 def start():
